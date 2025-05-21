@@ -25,7 +25,6 @@ docker-compose up --build
 
 Then visit: http://localhost:8000
 
-Edit files like app/main.py, and changes will reflect automatically.
 
 ## 📚 API Reference
 
